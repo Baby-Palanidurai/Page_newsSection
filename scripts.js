@@ -1,9 +1,9 @@
 (function () {
   var resultData = [];
   Promise.all([
-    fetch('./data.json').then((data) => data.json()),
-    fetch('./detail.json').then((data) => data.json()),
-    fetch('./latestnews.json').then((data) => data.json()),
+    fetch('./mainData.json').then((data) => data.json()),
+    fetch('./articleDetail.json').then((data) => data.json()),
+    fetch('./asidenewsData.json').then((data) => data.json()),
   ])
     .then(([data, detail, newsData]) => {
       // Work with JSON data here
