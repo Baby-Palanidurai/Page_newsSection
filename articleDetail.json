@@ -1,0 +1,79 @@
+{
+  "data": [
+    {
+      "sectionId": "fashion",
+      "articleList": [
+        {
+          "articleId": "img",
+          "articleTitle": "Srinidhi shetty in hand painted anarkali set for promotions of k.g.f 2",
+          "imgUrl": "https://static.toiimg.com/photo/msid-90843047/90843047.jpg?128346",
+          "articleUrl": "https://www.fashionworldhub.com/2022/04/srinidhi-shetty-in-hand-painted-anarkali-set-for-promotions-of-k-g-f-2/",
+          "adInfo": { "Adpartner": "" }
+        },
+
+        {
+          "articleId": "li",
+          "articleTitle": "Vaishali Shadangule: First Indian female designer to showcase at Milan Fashion Week",
+          "articleUrl": "https://timesofindia.indiatimes.com/life-style/fashion/designers/vaishali-shadangule-first-indian-female-designer-to-showcase-at-milan-fashion-week/articleshow/89846990.cms"
+        },
+        {
+          "articleId": "li",
+          "articleTitle": "Story behind Alia Bhatt's upcycled lehenga worn for her Mehendi",
+          "articleUrl": "https://www.fashionworldhub.com/2022/04/srinidhi-shetty-in-hand-painted-anarkali-set-for-promotions-of-k-g-f-2/",
+          "adInfo": { "Adpartner": "" }
+        },
+        {
+          "articleId": "li",
+          "articleTitle": "Bollywood actors and their comfy airport outfits",
+          "articleUrl": "https://timesofindia.indiatimes.com/life-style/fashion/celeb-style/bollywood-actors-and-their-comfy-airport-outfits/articleshow/90881393.cms"
+        }
+      ]
+    },
+    {
+      "sectionId": "travel",
+      "articleList": [
+        {
+          "articleId": "img",
+          "articleTitle": "Switzerland all set to lift entry restrictions for travellers from May 2",
+          "imgUrl": "https://static.toiimg.com/photo/91026184/switzerland.jpg",
+          "articleUrl": "https://timesofindia.indiatimes.com/travel/travel-news/switzerland-all-set-to-lift-entry-restrictions-for-travellers-from-may-2/as91026168.cms",
+          "adInfo": { "Adpartner": "" }
+        },
+        {
+          "articleId": "li",
+          "articleTitle": "Uttarakhand: Pithoragarh to host adventure cycle rally in May to boost tourism near Indo-China border",
+          "articleUrl": "https://timesofindia.indiatimes.com/travel/travel-news/uttarakhand-pithoragarh-to-host-adventure-cycle-rally-in-may-to-boost-tourism-near-indo-china-border/as91008812.cms",
+          "adInfo": { "Adpartner": "" }
+        },
+        {
+          "articleId": "li",
+          "articleTitle": "Unvaccinated travellers to Cambodia to follow 7-day quarantine period",
+          "articleUrl": "https://timesofindia.indiatimes.com/travel/travel-news/unvaccinated-travellers-to-cambodia-to-follow-7-day-quarantine-period/as91001749.cms",
+          "adInfo": { "Adpartner": "" }
+        },
+        {
+          "articleId": "li",
+          "articleTitle": "Importance of travel agents in a post-pandemic world",
+          "articleUrl": "https://www.breakingtravelnews.com/focus/article/importance-of-travel-agents-in-a-post-pandemic-world/"
+        }
+      ]
+    },
+    {
+      "sectionId": "beauty",
+      "articleList": [
+        {
+          "articleId": "img",
+          "articleTitle": "8-step skincare regime for summer",
+          "imgUrl": "https://static.toiimg.com/thumb/msid-90570174,width-800,height-600,resizemode-75,imgsize-33448,pt-32,y_pad-40/90570174.jpg",
+          "articleUrl": "https://timesofindia.indiatimes.com/life-style/beauty/8-step-skincare-regime-for-summer/articleshow/90570174.cms"
+        },
+        {
+          "articleId": "li",
+          "articleTitle": "Solving travel skincare woes",
+          "imgUrl": "",
+          "articleUrl": "https://timesofindia.indiatimes.com/life-style/beauty/solving-travel-skincare-woes/articleshow/90527700.cms"
+        }
+      ]
+    }
+  ]
+}
